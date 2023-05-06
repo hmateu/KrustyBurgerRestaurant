@@ -1,7 +1,14 @@
 :root{
-    --navBarColor: #ff0023;
+    --navBarColor: #ff000b;
 }
 
 .navbarStyle{
     background-color: var(--navBarColor);
+}
+.krustyLogo{
+    height: 4em;
+    width: 4em;
+    background: url("../img/logo.png") no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
