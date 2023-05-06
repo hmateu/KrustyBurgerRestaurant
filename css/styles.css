@@ -39,3 +39,12 @@
     background: url("../img/followUsBackground.png");
     background-position-x: center;
 }
+.ourMenuStyle{
+    background: url("../img/ourMenu.png");
+}
+.supplementStyle{
+    background: url("../img/supplement.png");
+}
+.dessertStyle{
+    background: url("../img/dessert.png");
+}
