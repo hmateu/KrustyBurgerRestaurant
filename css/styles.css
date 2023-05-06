@@ -16,3 +16,9 @@
     height: 3em;
     width: 3em;
 }
+.centerMainCard{
+    margin:0 2em;
+}
+.mainPictureText{
+    margin-top: -0.5em;
+}
