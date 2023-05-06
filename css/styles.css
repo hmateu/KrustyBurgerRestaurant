@@ -29,3 +29,7 @@
 .mainPictureText{
     margin-top: -0.5em;
 }
+.followUsStyle{
+    background: url("../img/followUsBackground.png");
+    background-position-x: center;
+}
