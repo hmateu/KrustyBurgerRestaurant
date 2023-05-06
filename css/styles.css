@@ -5,10 +5,14 @@
 .navbarStyle{
     background-color: var(--navBarColor);
 }
-.krustyLogo{
+.krustyLogo, .krustyLogoFooter{
     height: 4em;
     width: 4em;
     background: url("../img/logo.png") no-repeat;
     background-position: center center;
     background-size: cover;
+}
+.krustyLogoFooter{
+    height: 3em;
+    width: 3em;
 }
