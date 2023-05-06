@@ -1,5 +1,6 @@
 :root{
     --navBarColor: #ff000b;
+    --krustyFace: #f7e2af;
 }
 
 .navbarStyle, .footerStyle{
@@ -15,6 +16,12 @@
 .krustyLogoFooter{
     height: 3em;
     width: 3em;
+}
+.mainStyle{
+    background: url("../img/mainBackground.png") no-repeat;
+    background-position-x: center;
+    background-position-y: -4em;
+    background-size: 50em;
 }
 .centerMainCard{
     margin:0 2em;
