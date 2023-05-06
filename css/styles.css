@@ -48,3 +48,6 @@
 .dessertStyle{
     background: url("../img/dessert.png");
 }
+.menuPrice{
+    margin-top: -0.5em;
+}
