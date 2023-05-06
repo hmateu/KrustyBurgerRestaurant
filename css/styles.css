@@ -23,6 +23,12 @@
     background-position-y: -4em;
     background-size: 50em;
 }
+.menuHeadStyle{
+    background: url("../img/menuHeadBackground.png");
+    background-position-x: center;
+    background-size: 20em;
+    height: 14em;
+}
 .centerMainCard{
     margin:0 2em;
 }
