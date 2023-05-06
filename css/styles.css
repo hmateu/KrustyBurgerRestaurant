@@ -1,0 +1,7 @@
+:root{
+    --navBarColor: #ff0023;
+}
+
+.navbarStyle{
+    background-color: var(--navBarColor);
+}
