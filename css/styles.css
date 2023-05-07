@@ -41,6 +41,7 @@ a {
 }
 
 .contactStyle {
+    /* background: url("../img/contactBackground.png") no-repeat; */
     background: url("../img/contactBackground.png") no-repeat;
     background-size: cover;
     background-position: center;
