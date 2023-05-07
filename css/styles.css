@@ -74,6 +74,14 @@ a{
     transition: 0.5s;
     cursor: pointer;
   }
+  .socialIcon{
+    transition: 0.5s;
+  }
+  .socialIcon:hover{
+    transform: scale(0.9);
+    transition: 0.5s;
+    cursor: pointer;
+  }
   .mainCardText{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 0.10em;
