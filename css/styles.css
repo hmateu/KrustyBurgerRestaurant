@@ -48,11 +48,6 @@ a {
     margin-top: -0.5em;
 }
 
-.followUsStyle {
-    background: url("../img/followUsBackground.png");
-    background-position-x: center;
-}
-
 .contactStyle {
     background: url("../img/contactBackground.png") no-repeat;
     background-size: cover;
