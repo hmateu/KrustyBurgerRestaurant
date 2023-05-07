@@ -28,3 +28,22 @@ Esta es la página de inicio de esta gran franquicia.
 
 Y esta es la versión móvil.
 >![image](./img/homePageTommyMelsMobile.JPG)
+
+### Desarrollo
+
+Para la realización de este proyecto he utlizado HTML5, CSS3 y Bootstrap. Siendo este último de obligado uso para aprender su funcionamiento. Gracias al mismo, he conseguido una página web completamente responsive.
+
+La página web cuenta con tres páginas plenamente funcionales, siendo estas la página principal, la de la carta (donde pueden ver los diferentes platos que se sirven) y la de contacto. A continuación, una captura de cada una de las páginas.
+
+**Página de Inicio.**
+>![image](./img/homePagePC.JPG)
+
+**Página de Carta.**
+>![image](./img/menuPagePC.JPG)
+
+**Página de Contacto.**
+>![image](./img/contactPagePC.JPG)
+
+**En versión móvil.**
+>![image](./img/krustyBurgerMobilePages.png)
+
