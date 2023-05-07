@@ -95,3 +95,14 @@ a {
     font-size: 1.8em;
     transition: 200ms;
 }
+.followUsSubtitle{
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.textFollowUs{
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.followUsStyle{
+    background: url("../img/followUsBackground.png") no-repeat;
+}
