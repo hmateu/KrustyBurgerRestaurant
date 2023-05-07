@@ -79,15 +79,6 @@ a {
     transition: 0.5s;
     cursor: pointer;
 }
-.mainTitle{
-    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 1.5em;
-    letter-spacing: 0.2em;
-    word-spacing: 0.2em; */
-    background: url("../img/titleMain.png") no-repeat;
-    height: 3.5em;
-    background-position: center;
-}
 .mainCardText {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 2em;
