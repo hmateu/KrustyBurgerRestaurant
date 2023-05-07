@@ -29,13 +29,6 @@
     background-size: 20em;
     height: 14em;
 }
-.contactHeadStyle{
-    background: url("../img/contactHeadBackground.jpg") no-repeat;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: 83em;
-    height: 14em;
-}
 .centerMainCard{
     margin:0 2em;
 }
