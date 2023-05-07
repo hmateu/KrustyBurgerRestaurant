@@ -42,7 +42,8 @@ a{
     background-position-x: center;
 }
 .ourMenuStyle{
-    background: url("../img/ourMenu.png");
+    /* background: url("../img/ourMenu.png"); */
+    /* background: url("../img/ourMenu.png"); */
 }
 .contactStyle{
     background: url("../img/contactBackground.png") no-repeat;
@@ -50,10 +51,13 @@ a{
     background-position: center;
 }
 .supplementStyle{
-    background: url("../img/supplement.png");
+    /* background: url("../img/supplement.png"); */
+    /* background: url("../img/supplement.png"); */
 }
 .dessertStyle{
-    background: url("../img/dessert.png");
+    /* background: url("../img/dessert.png"); */
+    /* background: url("../img/dessertBackground.png") no-repeat;
+    background-size: cover; */
 }
 .menuPrice{
     margin-top: -0.5em;
