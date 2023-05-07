@@ -1,67 +1,68 @@
-:root{
+:root {
     --navBarColor: #ff000b;
     --krustyFace: #f7e2af;
 }
-a{
+
+a {
     text-decoration: none;
 }
-.navbarStyle, .footerStyle{
+
+.navbarStyle,
+.footerStyle {
     background-color: var(--navBarColor);
 }
-.krustyLogo, .krustyLogoFooter{
+
+.krustyLogo,
+.krustyLogoFooter {
     height: 4em;
     width: 4em;
     background: url("../img/logo.png") no-repeat;
     background-position: center center;
     background-size: cover;
 }
-.krustyLogoFooter{
+
+.krustyLogoFooter {
     height: 3em;
     width: 3em;
 }
-.mainStyle{
+
+.mainStyle {
     background: url("../img/mainBackground.png") no-repeat;
     background-position-x: center;
     background-position-y: -4em;
     background-size: 50em;
 }
-.menuHeadStyle{
+
+.menuHeadStyle {
     background: url("../img/menuHeadBackground.png");
     background-position-x: center;
     background-size: 20em;
     height: 14em;
 }
-.centerMainCard{
-    margin:0 2em;
+
+.centerMainCard {
+    margin: 0 2em;
 }
-.mainPictureText{
+
+.mainPictureText {
     margin-top: -0.5em;
 }
-.followUsStyle{
+
+.followUsStyle {
     background: url("../img/followUsBackground.png");
     background-position-x: center;
 }
-.ourMenuStyle{
-    /* background: url("../img/ourMenu.png"); */
-    /* background: url("../img/ourMenu.png"); */
-}
-.contactStyle{
+
+.contactStyle {
     background: url("../img/contactBackground.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
-.supplementStyle{
-    /* background: url("../img/supplement.png"); */
-    /* background: url("../img/supplement.png"); */
-}
-.dessertStyle{
-    /* background: url("../img/dessert.png"); */
-    /* background: url("../img/dessertBackground.png") no-repeat;
-    background-size: cover; */
-}
-.menuPrice{
+
+.menuPrice {
     margin-top: -0.5em;
 }
+
 .buttonStyle {
     width: 9em;
     --bs-btn-color: var(--bs-white);
@@ -69,33 +70,39 @@ a{
     --bs-btn-hover-color: var(--navBarColor);
     --bs-btn-hover-bg: var(--bs-white);
     --bs-btn-hover-border-color: var(--navBarColor);
-  }
-  .mainImgHome{
+}
+
+.mainImgHome {
     transition: 0.5s;
-  }
-  .mainImgHome:hover{
+}
+
+.mainImgHome:hover {
     transform: scale(0.9);
     transition: 0.5s;
     cursor: pointer;
-  }
-  .socialIcon{
+}
+
+.socialIcon {
     transition: 0.5s;
-  }
-  .socialIcon:hover{
+}
+
+.socialIcon:hover {
     transform: scale(0.9);
     transition: 0.5s;
     cursor: pointer;
-  }
-  .mainCardText{
+}
+
+.mainCardText {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 0.10em;
     word-spacing: 0.3em;
     transition: 200ms;
     color: black;
-  }
-  .mainCardText:hover{
+}
+
+.mainCardText:hover {
     color: var(--navBarColor);
     cursor: pointer;
     font-size: 1.15em;
     transition: 200ms;
-  }
+}
