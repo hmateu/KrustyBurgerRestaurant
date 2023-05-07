@@ -47,3 +47,7 @@ La página web cuenta con tres páginas plenamente funcionales, siendo estas la 
 **En versión móvil.**
 >![image](./img/krustyBurgerMobilePages.png)
 
+### Licencia y Copyright
+
+* Este proyecto se ha realizado bajo la **licencia MIT**.
+* El material multimedia utilizado para la realización de este proyecto, es propiedad de ***The Simpson***.
