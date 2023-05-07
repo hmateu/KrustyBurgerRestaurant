@@ -11,7 +11,10 @@ a {
 .footerStyle {
     background-color: var(--navBarColor);
 }
-
+.mainStyle{
+    background: url("../img/mainSectionBackground.png") no-repeat;
+    background-size: cover;
+}
 .krustyLogo,
 .krustyLogoFooter {
     height: 4em;
