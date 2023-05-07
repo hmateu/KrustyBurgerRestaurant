@@ -51,3 +51,14 @@
 .menuPrice{
     margin-top: -0.5em;
 }
+/* .buttonStyle{
+    background-color: var(--navBarColor);
+} */
+.buttonStyle {
+    width: 9em;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--navBarColor);
+    --bs-btn-hover-color: var(--navBarColor);
+    --bs-btn-hover-bg: var(--bs-white);
+    --bs-btn-hover-border-color: var(--navBarColor);
+  }
