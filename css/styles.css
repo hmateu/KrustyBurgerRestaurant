@@ -51,9 +51,6 @@
 .menuPrice{
     margin-top: -0.5em;
 }
-/* .buttonStyle{
-    background-color: var(--navBarColor);
-} */
 .buttonStyle {
     width: 9em;
     --bs-btn-color: var(--bs-white);
