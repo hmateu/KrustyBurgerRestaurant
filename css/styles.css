@@ -66,6 +66,14 @@ a{
     --bs-btn-hover-bg: var(--bs-white);
     --bs-btn-hover-border-color: var(--navBarColor);
   }
+  .mainImgHome{
+    transition: 0.5s;
+  }
+  .mainImgHome:hover{
+    transform: scale(0.9);
+    transition: 0.5s;
+    cursor: pointer;
+  }
   .mainCardText{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 0.10em;
