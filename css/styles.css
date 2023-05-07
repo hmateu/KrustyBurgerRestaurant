@@ -61,12 +61,12 @@ a {
 }
 
 .mainImgHome {
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .mainImgHome:hover {
     transform: scale(0.9);
-    transition: 0.5s;
+    transition: 0.3s;
     cursor: pointer;
 }
 
@@ -75,13 +75,14 @@ a {
 }
 
 .socialIcon:hover {
-    transform: scale(0.9);
+    transform: scale(0.8);
     transition: 0.5s;
     cursor: pointer;
 }
 
 .mainCardText {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
     letter-spacing: 0.10em;
     word-spacing: 0.3em;
     transition: 200ms;
@@ -91,6 +92,6 @@ a {
 .mainCardText:hover {
     color: var(--navBarColor);
     cursor: pointer;
-    font-size: 1.15em;
+    font-size: 1.8em;
     transition: 200ms;
 }
