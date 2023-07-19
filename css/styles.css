@@ -10,10 +10,12 @@ a {
 .footerStyle {
     background-color: var(--navBarColor);
 }
-.mainStyle{
+
+.mainStyle {
     background: url("../img/mainSectionBackground.png") no-repeat;
     background-size: cover;
 }
+
 .krustyLogo,
 .krustyLogoFooter {
     height: 4em;
@@ -77,6 +79,7 @@ a {
     transition: 0.5s;
     cursor: pointer;
 }
+
 .mainCardText {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 2em;
@@ -86,20 +89,16 @@ a {
     color: black;
 }
 
-.mainCardText:hover {
-    color: var(--navBarColor);
-    cursor: pointer;
-    font-size: 1.8em;
-    transition: 200ms;
-}
-.followUsSubtitle{
+.followUsSubtitle {
     font-size: 2em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.textFollowUs{
+
+.textFollowUs {
     font-size: 1.5em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.followUsStyle{
+
+.followUsStyle {
     background: url("../img/followUsBackground.png") no-repeat;
 }
